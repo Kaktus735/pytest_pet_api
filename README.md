@@ -7,14 +7,14 @@ For install use:
 
 ### Run
 
-Run from `app.py` in root folder
+Run from `app.py` in root folder\n
 Added 2 methods for work with api:
 - `update_pet_photo`
 - `add_new_pet_without_photo`
 
 ### Tests
 
-See /tests folder
+See `/tests` folder
 Last 13 tests is solution of task №19.7.2
 
 ### Settings
