@@ -15,9 +15,9 @@ Added 2 methods for work with api:
 ### Tests
 
 See `/tests` folder\
-Last 13 tests is solution of task №19.7.2
+Last 13 tests is a solution of task №19.7.2
 
 ### Settings
 
-See credentials in file `settings.py`\
+See credentials in the file `settings.py`\
 File contains credentials for two users, uses in tests.
